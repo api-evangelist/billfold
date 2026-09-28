@@ -1,0 +1,81 @@
+generated: '2026-09-28'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 5
+  own: 3
+  other_domain: 2
+  platform: 0
+  roles:
+  - api
+  - docs
+  - portal
+  - website
+hosts:
+- host: api.billfold.tech
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: billfold.tech
+  role: api
+  relation: own
+- host: api.billfoldpos.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: billfoldpos.com
+  role: api
+  relation: other-domain
+- host: help.billfoldpos.com
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - Documentation
+  - Support
+  serves:
+  - docs
+  registrable_domain: billfoldpos.com
+  role: docs
+  relation: other-domain
+- host: portal.billfold.tech
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - DeveloperPortal
+  serves:
+  - docs
+  registrable_domain: billfold.tech
+  role: portal
+  relation: own
+- host: www.billfold.tech
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - Website
+  - Blog
+  - Pricing
+  serves:
+  - cdn
+  vendor: cloudflare
+  registrable_domain: billfold.tech
+  role: website
+  relation: own

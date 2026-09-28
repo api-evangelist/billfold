@@ -1,0 +1,58 @@
+# Billfold
+
+> Billfold is a payments and operations platform for live events and venues. It brings point of sale, payments, marketplace management, analytics, guest engagement, and event technology into one operational system.
+
+Billfold is built for operators managing temporary and permanent event environments with multiple devices, staff members, vendors, and revenue centers. The platform supports operations before, during, and after an event – from payment and onsite operations through real-time oversight, reporting, and settlement.
+
+Billfold is designed specifically for live event operations, including festivals, concerts, stadiums, arenas, venues, and other high-volume event environments.
+
+Case study results describe specific events, configurations, and time periods. They should be treated as evidence from those deployments rather than guaranteed outcomes of using Billfold.
+
+## Start Here
+
+- [Billfold](https://www.billfold.tech/): Overview of the Billfold platform, its role in live event operations, core capabilities, hardware, and customers.
+- [Point of Sale](https://www.billfold.tech/features/cashless-and-contactless-pos): Billfold point of sale for bars, food and beverage, merchandise, and other event revenue centers, with centralized management through the Billfold Dashboard.
+- [About Billfold](https://www.billfold.tech/about-us): Company background, mission, and experience in live entertainment operations.
+- [Pricing](https://www.billfold.tech/pricing): Available commercial models for different venue and event operating patterns.
+- [Contact Billfold](https://www.billfold.tech/contacts): Request a product walkthrough or discuss an event or venue setup.
+
+## Platform and Capabilities
+
+- [Marketplace Management](https://www.billfold.tech/features/marketplace-management): Tools for managing vendors, merchants, revenue centers, and other stakeholders within one event operation.
+- [Billfold Engage](https://www.billfold.tech/features/billfold-engage): Guest engagement and sponsor activation through transaction-linked communication and promotions.
+- [Billfold IQ](https://www.billfold.tech/features/billfold-iq): Real-time operational and transaction analytics across revenue centers.
+- [Open API](https://www.billfold.tech/features/open-api): Integration options for connecting Billfold with ticketing, marketing, analytics, and other event technology systems.
+- [Cashless RFID Payments](https://www.billfold.tech/cashless-rfid-payments-for-events): How RFID wristbands are used for activation, top-up, payment, transaction records, and centralized reporting within Billfold.
+
+## Event and Venue Solutions
+
+- [Festival POS](https://www.billfold.tech/benefits/festivals): Billfold workflows for high-volume festivals, including deployment, vendor management, payments, reporting, and settlement.
+- [Stadiums](https://www.billfold.tech/benefits/stadiums): Billfold capabilities for large venues with multiple revenue centers, many points of sale, and high transaction volume.
+- [One-Off Events](https://www.billfold.tech/one-off-events): Payments and operations for temporary events with peak traffic, temporary staff, multiple vendors, and post-event settlement.
+- [Live Entertainment](https://www.billfold.tech/benefits/entertainment): Billfold capabilities for live entertainment environments and event operations.
+- [Food and Beverage](https://www.billfold.tech/benefits/food-beverage): Billfold workflows for food and beverage operations across events and venues.
+
+## Evidence and Case Studies
+
+- [Case Studies](https://www.billfold.tech/case-studies): Index of published Billfold deployments and measured operational results.
+- [Elements Music & Arts Festival 2026](https://www.billfold.tech/case-studies/elements-2026): How a growing festival scaled attendance and transaction volume using its existing Billfold operational setup.
+- [Lightning in a Bottle 2026](https://www.billfold.tech/case-studies/lightning-in-a-bottle-2026): Multi-year comparison of RFID and card purchasing behavior at the festival.
+- [Miami Music Week 2026](https://www.billfold.tech/blog/miami-music-week-2026): Billfold operations across multiple venues and events during Miami Music Week 2026, documenting a large-scale real-world deployment.
+- [Event Surcharging](https://www.billfold.tech/case-studies/event-surcharging): Operational example of how event surcharging was implemented and measured.
+
+## Guides and Explanations
+
+- [How to Choose an Event Payment System](https://www.billfold.tech/blog/event-payment-solutions-how-to-choose-the-right-system-for-your-venue): Evaluation criteria for payment and POS systems used by events and venues.
+- [Closed-Loop vs Open-Loop Payments](https://www.billfold.tech/blog/closed-loop-vs-open-loop-payment-systems): Explanation of closed-loop and open-loop payment models and where each fits in event operations.
+- [RFID Cashless Payment Systems Buyer's Guide](https://www.billfold.tech/blog/rfid-cashless-payment-systems-a-buyers-guide): Practical guide to evaluating RFID payment systems for events.
+- [Cash-to-Card Kiosks](https://www.billfold.tech/blog/cash-to-card-kiosks-at-stadiums-and-festivals-how-they-work-and-what-they-cost): How cash-to-card kiosks work, what they cost, and where they fit in cash-free event operations.
+- [Stadium POS Systems Buyer's Guide](https://www.billfold.tech/blog/stadium-pos-systems-the-2026-buyers-guide): Operational requirements and evaluation criteria for stadium and arena POS systems.
+
+## Optional
+
+- [Clients](https://www.billfold.tech/clients): Examples of festivals, venues, and event operators using Billfold.
+- [FAQ](https://www.billfold.tech/faq): Answers to common questions about Billfold, event payments, RFID, and implementation.
+- [Glossary](https://www.billfold.tech/glossary): Definitions of event POS, payment, RFID, and operational terminology.
+- [Blog](https://www.billfold.tech/blog): Product updates, operational guides, industry analysis, and company news.
+- [Privacy Policy](https://www.billfold.tech/privacy-policy): Privacy terms for Billfold websites and services.
+- [Terms of Service](https://www.billfold.tech/tos): Licensing and processing terms for Billfold services.

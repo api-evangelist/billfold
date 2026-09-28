@@ -1,0 +1,58 @@
+generated: '2026-09-28'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.billfold.tech/pricing
+sources:
+- https://www.billfold.tech/pricing
+name: Billfold pricing
+audience: business-product
+pricing_basis: per-call
+plans:
+- name: Purchase Hardware Dual Screen
+  price_text: $1,499 / $49
+- name: Purchase Hardware Single Screen
+  price_text: $899 / $39
+- name: Purchase Hardware Mobile Handheld
+  price_text: $399 / $29
+- name: Purchase Hardware Activation
+  price_text: $799 / $29
+- name: Software Dual Screen
+  price_text: $49
+  price: 49
+- name: Software Single Screen
+  price_text: $39
+  price: 39
+- name: Software Mobile Handheld
+  price_text: $29
+  price: 29
+- name: Software Activation
+  price_text: $29
+  price: 29
+- name: Rental Hardware Dual Screen
+  price_text: $49
+  price: 49
+- name: Rental Hardware Single Screen
+  price_text: $39
+  price: 39
+- name: Rental Hardware Mobile Handheld
+  price_text: $29
+  price: 29
+- name: Rental Hardware Activation
+  price_text: $29
+  price: 29
+- name: Rental Software Dual Screen
+  price_text: $49
+  price: 49
+- name: Rental Software Single Screen
+  price_text: $39
+  price: 39
+- name: Rental Software Mobile Handheld
+  price_text: $29
+  price: 29
+- name: Rental Software Activation
+  price_text: $29
+  price: 29
+- name: Pay as you go
+  price_text: $0 + processing fees
+  price: 0
+docs: https://www.billfold.tech/pricing
