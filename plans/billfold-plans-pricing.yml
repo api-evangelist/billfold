@@ -56,3 +56,113 @@ plans:
   price_text: $0 + processing fees
   price: 0
 docs: https://www.billfold.tech/pricing
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - free
+  - subscription
+  units: []
+  plans:
+  - name: Purchase Hardware Dual Screen
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Purchase Hardware Single Screen
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Purchase Hardware Mobile Handheld
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Purchase Hardware Activation
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Software Dual Screen
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Software Single Screen
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Software Mobile Handheld
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Software Activation
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Hardware Dual Screen
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Hardware Single Screen
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Hardware Mobile Handheld
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Hardware Activation
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Software Dual Screen
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Software Single Screen
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Software Mobile Handheld
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Rental Software Activation
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
+  - name: Pay as you go
+    access: other
+    model: free
+    model_how: derived
+    units: []
+    periods: []
